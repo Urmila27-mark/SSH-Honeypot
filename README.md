@@ -25,7 +25,7 @@ ssh-honeypot/
     └── server.log       ← Server info/debug log
 ```
 
-## What you'll learn
+## What I learnt
 
 - **Most common credentials**: root/root, admin/admin, pi/raspberry
 - **Automated scanners**: bots hit you within minutes of exposing port 22
